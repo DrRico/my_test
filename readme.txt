@@ -6,4 +6,6 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage
 
-2018.11.30,23:20
+2018.11.20,23:20
+
+2018.11.21,16.48
