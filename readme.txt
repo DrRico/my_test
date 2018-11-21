@@ -7,9 +7,8 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage
 
 2018.11.20,23:20
-
-
 2018.11.21,16.54
-
-
 time :2018.11.21.19.49
+
+
+
