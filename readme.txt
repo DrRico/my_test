@@ -10,5 +10,8 @@ Git has a mutable index called stage
 2018.11.21,16.54
 time :2018.11.21.19.49
 
+Creating a new branch is quick
+
+
 
 
